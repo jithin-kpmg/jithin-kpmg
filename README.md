@@ -3,7 +3,6 @@
 - 🔭 Recently created a new tool for developers using [puppeteer](https://github.com/puppeteer/puppeteer)
 - 🌱 Currently learning Python, Blockchain and Adobe illustrator!
 - 💬 Talk to me about new Technologies!
-- 📫 Here is how you can reach me: [@getjithin](https://medium.com/@getjithin)
 
 **Languages and Tools:**  
 
